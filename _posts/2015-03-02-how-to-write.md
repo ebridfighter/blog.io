@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 这是一篇博客文章模板
-date: 2015-3-02
+title: 基于ijkplayer实现拉流
+date: 2018-9-23
 categories: blog
-tags: [标签一,标签二]
+tags: [android,音视频]
 description: 文章金句。
 ---
 
